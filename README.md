@@ -1,2 +1,4 @@
 # bookbot
-A bot the analyzes text from books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!# bookbot
+
